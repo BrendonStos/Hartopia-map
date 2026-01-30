@@ -1,0 +1,173 @@
+[
+  {
+    "id": "albert_jr",
+    "name": "Albert Jr",
+    "icon": "assets/pins/npc/albert_jr.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "icon": "assets/pins/npc/andrew.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "annie",
+    "name": "Annie",
+    "icon": "assets/pins/npc/annie.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "atara",
+    "name": "Atara",
+    "icon": "assets/pins/npc/atara.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "bailey_j",
+    "name": "Bailey J",
+    "icon": "assets/pins/npc/bailey_j.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "bill",
+    "name": "Bill",
+    "icon": "assets/pins/npc/bill.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "blanc",
+    "name": "Blanc",
+    "icon": "assets/pins/npc/blanc.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "bob",
+    "name": "Bob",
+    "icon": "assets/pins/npc/bob.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "collector",
+    "name": "Colecionador",
+    "icon": "assets/pins/npc/collector.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "dorothee",
+    "name": "Dorothee",
+    "icon": "assets/pins/npc/dorothee.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "eric",
+    "name": "Eric",
+    "icon": "assets/pins/npc/eric.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "kaching",
+    "name": "KaChing",
+    "icon": "assets/pins/npc/kaching.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "massimo",
+    "name": "Massimo",
+    "icon": "assets/pins/npc/massimo.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "mrs_joan",
+    "name": "Mrs Joan",
+    "icon": "assets/pins/npc/mrs_joan.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "naniwa",
+    "name": "Naniwa",
+    "icon": "assets/pins/npc/naniwa.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "patti",
+    "name": "Patti",
+    "icon": "assets/pins/npc/patti.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "vanya",
+    "name": "Vanya",
+    "icon": "assets/pins/npc/vanya.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "vernie",
+    "name": "Vernie",
+    "icon": "assets/pins/npc/vernie.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  },
+  {
+    "id": "will",
+    "name": "Will",
+    "icon": "assets/pins/npc/will.png",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "visible": true
+  }
+]
