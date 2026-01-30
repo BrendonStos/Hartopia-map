@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Heartopia Map</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <aside class="filters">
+    <h2>NPCs</h2>
+    <div id="filter-container"></div>
+  </aside>
+
+  <main class="map-wrapper">
+    <div id="map-container">
+      <img src="assets/map/map.png" id="map-image" />
+
+      <!-- Pins entram aqui via JS -->
+      <div id="pins-layer"></div>
+    </div>
+  </main>
+
+  <!-- Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <h3 id="modal-title"></h3>
+      <p id="modal-description"></p>
+      <button onclick="closeModal()">Fechar</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
